@@ -11,8 +11,9 @@ h1{
 .red-color{
     color: rgb(142, 221, 23);
 }
-section{
+.flex-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -41,5 +42,8 @@ section{
     background-image:url(developer-portfolio-main/images/topbanner.png) ;
     background-repeat: no-repeat;
     background-position: right;
+}
+.flex-container{
+    
 }
     
