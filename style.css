@@ -37,3 +37,9 @@ section{
     background-image: url(developer-portfolio-main/images/topbanner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image:url(developer-portfolio-main/images/topbanner.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+    
